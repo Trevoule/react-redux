@@ -1,8 +1,7 @@
-import ClassCounter from './components/Counter';
-
+import Counter from "./components/Counter";
 
 function App() {
-  return <ClassCounter />;
+  return <Counter />
 }
 
 export default App;
